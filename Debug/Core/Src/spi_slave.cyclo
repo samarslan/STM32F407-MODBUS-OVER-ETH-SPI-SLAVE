@@ -1,0 +1,9 @@
+../Core/Src/spi_slave.c:48:13:LED_SetState	6
+../Core/Src/spi_slave.c:62:13:LED_SetAll	2
+../Core/Src/spi_slave.c:72:13:ProcessCommand	13
+../Core/Src/spi_slave.c:117:6:SPI_Slave_Init	1
+../Core/Src/spi_slave.c:131:6:HAL_SPI_TxRxCpltCallback	2
+../Core/Src/spi_slave.c:153:6:HAL_SPI_ErrorCallback	2
+../Core/Src/spi_slave.c:168:6:SPI_Slave_Poll	3
+../Core/Src/spi_slave.c:191:6:SPI_Slave_SetLED	1
+../Core/Src/spi_slave.c:195:9:SPI_Slave_GetLED	2
